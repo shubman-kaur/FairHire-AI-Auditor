@@ -210,7 +210,7 @@ with col2:
                             {response.text}
                         </div>
                     """, unsafe_allow_html=True)
-                    st.balloons()
+                    st.toast('Analysis Complete!', icon='✅')
         else:
             st.info("No immediate bias risks detected in this dataset based on current thresholds.")
     else:
