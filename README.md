@@ -1,29 +1,20 @@
-# 🛡️ FairHire AI: Ethical Recruitment Auditor
-**Building Bias-Free Workplaces with Google Gemini AI**
+# ⚖️ FairHire AI: Ethical Recruitment Auditor
 
-FairHire AI is an advanced auditing tool designed to identify and mitigate unconscious gender bias within recruitment processes. By leveraging the reasoning capabilities of **Google Gemini 1.5 Flash**, the system analyzes candidate rejection data to ensure hiring decisions remain meritocratic and ethical.
+An AI-driven dashboard designed to identify and analyze gender bias in recruitment processes. Built with **Python**, **Streamlit**, and **Google Gemini 2.0/Flash**.
 
----
-
-## 🌟 Key Features
-- **Smart Audit Engine:** Detects subtle bias patterns based on skills and experience versus hiring outcomes.
-- **Interactive Dashboard:** A clean, professional UI built on Google’s Material Design principles.
-- **Data Ingestion:** Easily upload and analyze recruitment datasets (CSV).
-- **Transparent Verdicts:** Provides AI-generated ethical explanations for every audit decision.
+## ✨ Key Features
+- **Data-Driven Insights:** Analyzes recruitment CSVs to find high-skill candidates who were unfairly rejected.
+- **AI-Powered Audits:** Uses LLMs to provide a deep ethical verdict and HR recommendations.
+- **Visual Analytics:** Interactive charts showing rejection patterns by gender.
+- **Report Export:** Generate and download a text-based audit report instantly.
 
 ## 🛠️ Tech Stack
-- **AI Model:** Google Gemini 1.5 Flash API
-- **Frontend:** Streamlit (Python)
-- **Data Handling:** Pandas
-- **Language:** Python 3.x
+- **Frontend:** Streamlit
+- **AI Model:** Google Gemini (Generative AI)
+- **Data:** Pandas, Plotly
 
-
-## 🚀 How to Run Locally
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/FairHire-AI-Auditor.git](https://github.com/shubman-kaur/FairHire-AI-Auditor.git)
-   cd FairHire-AI-Auditor
-
-   pip install -r requirements.txt
-   streamlit run app.py
+## 🚀 How to Run
+1. Clone this repository.
+2. Install requirements: `pip install -r requirements.txt`
+3. Get your Gemini API Key from [Google AI Studio](https://aistudio.google.com/).
+4. Run the app: `streamlit run app.py`
