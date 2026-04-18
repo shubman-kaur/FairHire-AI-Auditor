@@ -1,21 +1,22 @@
 # 🛡️ FairHire AI: Ethical Recruitment Auditor
 **Building Bias-Free Workplaces with Google Gemini AI**
 
-FairHire AI ek advanced auditing tool hai jo recruitment process mein unconscious gender bias ko detect karne ke liye banaya gaya hai. Ye Google Gemini 2.5 Flash ki reasoning power ka use karke candidate rejections ko analyze karta hai aur batata hai ki kya koi unfair decision liya gaya hai.
+FairHire AI is an advanced auditing tool designed to identify and mitigate unconscious gender bias within recruitment processes. By leveraging the reasoning capabilities of **Google Gemini 1.5 Flash**, the system analyzes candidate rejection data to ensure hiring decisions remain meritocratic and ethical.
 
 ---
 
 ## 🌟 Key Features
-- **Smart Audit Engine:** Gemini AI ka use karke skill aur experience ke basis par bias detect karna.
-- **Interactive Dashboard:** Google Material Design par based ek clean aur professional UI.
-- **Data Ingestion:** Recruitment CSV files ko upload aur analyze karne ki suvidha.
-- **Transparent Verdicts:** Har audit ke liye AI-generated ethical explanations.
+- **Smart Audit Engine:** Detects subtle bias patterns based on skills and experience versus hiring outcomes.
+- **Interactive Dashboard:** A clean, professional UI built on Google’s Material Design principles.
+- **Data Ingestion:** Easily upload and analyze recruitment datasets (CSV).
+- **Transparent Verdicts:** Provides AI-generated ethical explanations for every audit decision.
 
 ## 🛠️ Tech Stack
-- **AI Model:** Google Gemini 2.5 Flash API
+- **AI Model:** Google Gemini 1.5 Flash API
 - **Frontend:** Streamlit (Python)
 - **Data Handling:** Pandas
 - **Language:** Python 3.x
+
 
 ## 🚀 How to Run Locally
 
