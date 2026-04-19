@@ -499,3 +499,5 @@ Candidate_497,Male,4,89,Selected
 Candidate_498,Female,1,40,Rejected
 Candidate_499,Male,12,57,Rejected
 Candidate_500,Female,3,75,Rejected
+C_BIAS_TEST,Female,8,92,Rejected
+C_MALEREF,Male,2,55,Selected
