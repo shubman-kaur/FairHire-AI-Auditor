@@ -1,17 +1,23 @@
-# ⚖️ FairHire AI: Ethical Recruitment Auditor
+# ⚖️ FairHire AI: Ethical Recruitment Auditor  
 
-An AI-driven dashboard designed to identify and analyze gender bias in recruitment processes.A Python-based dashboard leveraging Streamlit for UI and integrating Google Gemini API for automated ethical auditing
+
+---
+
+## 🌟 Why FairHire AI?
+Traditional recruitment often suffers from hidden biases. **FairHire AI** acts as a digital whistleblower, analyzing hiring datasets to ensure that merit always comes before gender.
 
 ## ✨ Key Features
-- **Data-Driven Insights:** Analyzes recruitment CSVs to find high-skill candidates who were unfairly rejected.
-- **AI-Powered Audits:** Uses LLMs to provide a deep ethical verdict and HR recommendations.
-- **Visual Analytics:** Interactive charts showing rejection patterns by gender.
-- **Report Export:** Generate and download a text-based audit report instantly.
+* **🕵️‍♂️ Comparative AI Auditing:** Uses Google Gemini 2.0 to compare rejected high-skill candidates against selected benchmarks.
+* **📊 Selection Landscape:** Interactive Scatter Plots that visualize the "Skill vs. Status" gap between genders.
+* **🚨 Bias Risk Gauge:** A real-time visual meter that calculates the probability of discrimination (0-100%).
+* **💡 Mitigation Engine:** AI-generated "Action Plans" for HR to fix identified hiring discrepancies.
+* **📄 Audit Reports:** One-click download for professional evidence reports.
 
 ## 🛠️ Tech Stack
-- **Frontend:** Streamlit
-- **AI Model:** Google Gemini (Generative AI)
-- **Data:** Pandas, Plotly
+* **LLM:** Google Gemini 2.0 Flash (Advanced Reasoning)
+* **Framework:** Streamlit (Web UI)
+* **Analytics:** Plotly (Interactive Charts), Pandas (Data Processing)
+
 
 ## 🚀 How to Run
 1. Clone this repository.
