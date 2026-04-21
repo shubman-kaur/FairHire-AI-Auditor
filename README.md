@@ -11,7 +11,6 @@ Traditional recruitment often suffers from hidden biases. **FairHire AI** acts a
 * **📊 Selection Landscape:** Interactive Scatter Plots that visualize the "Skill vs. Status" gap between genders.
 * **🚨 Bias Risk Gauge:** A real-time visual meter that calculates the probability of discrimination (0-100%).
 * **💡 Mitigation Engine:** AI-generated "Action Plans" for HR to fix identified hiring discrepancies.
-* **📄 Audit Reports:** One-click download for professional evidence reports.
 
 ## 🛠️ Tech Stack
 * **LLM:** Google Gemini 2.0 Flash (Advanced Reasoning)
